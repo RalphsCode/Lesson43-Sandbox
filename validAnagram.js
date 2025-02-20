@@ -3,6 +3,7 @@ console.log("JS is running");
 /** Assumptions:
  * valid strings are passed in
  * all strings will be lower case
+ * no spaces, no punctuation
  * letters can only be used once
  */
 
